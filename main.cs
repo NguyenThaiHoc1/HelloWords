@@ -29,6 +29,11 @@ public class Student {
 		set {Cost = value;}
 	}
 	
+public class CLassMate {
+	asdasdasdhashdasdaskjd
+adhasdhaskjhdkasjdhaskjdd
+djaskjdajkshdakjhdjkasdasjkdhajsdsad
+sadhasjdhasdhaskdhaskjhdjashdaksd
 }
 public class Text {
 	public string name = "Beckham Angela";	
